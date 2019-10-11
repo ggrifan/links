@@ -50,6 +50,8 @@
 
 [Design Patterns - An introduction - in28Minutes](https://www.youtube.com/watch?v=0jjNjXcYmAU)
 
+[JUnit 5 Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o)
+
 # Docker
 - [Docker Tutorials for Beginners - in28Minutes](https://www.youtube.com/playlist?list=PLBBog2r6uMCQRT8JCwo5A23yjRZYGglL3)
 
@@ -59,8 +61,14 @@
 - [Advanced JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY40IcG584ynNqibMc1heIa)
 - [SOAP Web Service Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
 
+# Microservices
+- [Spring Boot Microservices Level 1: Communication and Discovery - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas)
+- [Spring Boot Microservices Level 2: Fault Tolerance and Resilience - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e)
 
 # Spring
+- [Spring Framework - JavaBrains](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7)
+- [Spring AOP - JavaBrains](https://www.youtube.com/playlist?list=PLE37064DE302862F8)
+- [Spring Data Support - JavaBrains](https://www.youtube.com/playlist?list=PL1A506B159E5BD13E)
 - [Spring Boot Tutorials - Telusko - YouTube](https://www.youtube.com/watch?v=35EQXmHKZYs)
 - [Spring Boot Tutorials 2 - Telusko - YouTube](https://www.youtube.com/playlist?list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4)
 - [Spring Boot Quick Start - JavaBrains - YouTube](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
@@ -69,10 +77,13 @@
 - [Spring Boot Tutorials, Best Practices and Tips - in28Minutes](https://www.youtube.com/playlist?list=PLBBog2r6uMCRcybG1UBB6yAqFZbwjAKHi)
 
 # Security
+- [Intro to Digital Certificates - Dave Crabbe](https://www.youtube.com/watch?v=qXLD2UHq2vk)
+- [Digital Certificates: Chain of Trust - Dave Crabbe](https://www.youtube.com/watch?v=heacxYUnFHA)
 - [Spring Security Tutorial - Telusko - YouTube](https://www.youtube.com/watch?v=fjkelzWNSuA)
 - [Spring Boot Security - Telusko - YouTube](https://www.youtube.com/playlist?list=PLsyeobzWxl7o-Ul7lhFb9-fLjDYapcetO)
 - [Spring MVC Tutorial - Telusko - YouTube](https://www.youtube.com/watch?v=g2b-NbR48Jo)
 - [Architecture Deep Dive in Spring Security - Joe Grandja @ Spring I/O 2017 - YouTube](https://www.youtube.com/watch?v=8rnOsF3RVQc)
+- [Everything You Ever Wanted to Know About Authentication](https://www.youtube.com/watch?v=j8Yxff6L_po)
 
 ### OAuth
   - [OAuth 2.0](https://oauth.net/2/)
@@ -81,10 +92,13 @@
   - [OAuth - Alex Bilbie](https://alexbilbie.com/tag/oauth/)
   - [A Guide To OAuth 2.0 Grants - Alex Bilbie](https://alexbilbie.com/guide-to-oauth-2-grants/)
   - [Spring Security using OAuth2 in Spring Boot | Tech Primers | YouTube](https://www.youtube.com/watch?v=Dbxzw0cpxBU)
+  - [OAuth 2.0 and OpenID Connect (in plain English) - OktaDev](https://www.youtube.com/watch?v=996OiexHze0)
 
 ### JWT
   - [RFC 7519: JSON Web Token](https://oauth.net/2/jwt/)
   - [JSON Web Tokens](https://auth0.com/docs/jwt)
   - [JWT Signing Algorithms Overview](https://auth0.com/blog/json-web-token-signing-algorithms-overview/)
   - [JWT vs Cookies for Authentication](https://www.youtube.com/watch?v=o9hT7v0OLJc)
+  - [What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM)
+  - [What makes JSON Web Tokens (JWT) secure?](https://www.youtube.com/watch?v=rCkDE2me_qk)
 
