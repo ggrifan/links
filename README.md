@@ -46,14 +46,27 @@
 
 [Spring Web Services (SOAP) in Spring Boot App with example](https://www.youtube.com/watch?v=mr_2-AWYCoc)
 
+[Maven Tutorial for Beginners: with Eclipse - in28Minutes](https://www.youtube.com/watch?v=0CFWeVgzsqY)
+
+[Design Patterns - An introduction - in28Minutes](https://www.youtube.com/watch?v=0jjNjXcYmAU)
+
+# Docker
+- [Docker Tutorials for Beginners - in28Minutes](https://www.youtube.com/playlist?list=PLBBog2r6uMCQRT8JCwo5A23yjRZYGglL3)
+
 # WebServices
 - [REST API Documentation using Swagger2 in Spring Boot - Tech Primers - YouTube](https://www.youtube.com/watch?v=HHyjWc0ASl8)
+- [Developing RESTful APIs with JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
+- [Advanced JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY40IcG584ynNqibMc1heIa)
+- [SOAP Web Service Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
 
 
 # Spring
 - [Spring Boot Tutorials - Telusko - YouTube](https://www.youtube.com/watch?v=35EQXmHKZYs)
 - [Spring Boot Tutorials 2 - Telusko - YouTube](https://www.youtube.com/playlist?list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4)
 - [Spring Boot Quick Start - JavaBrains - YouTube](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+- [Spring Boot Tutorial For Beginners - in28Minutes](https://www.youtube.com/watch?v=PSP1-2cN7vM)
+- [Spring MVC Tutorial for Beginners - in28Minutes](https://www.youtube.com/watch?v=BjNhGaZDr0Y)
+- [Spring Boot Tutorials, Best Practices and Tips - in28Minutes](https://www.youtube.com/playlist?list=PLBBog2r6uMCRcybG1UBB6yAqFZbwjAKHi)
 
 # Security
 - [Spring Security Tutorial - Telusko - YouTube](https://www.youtube.com/watch?v=fjkelzWNSuA)
@@ -73,4 +86,5 @@
   - [RFC 7519: JSON Web Token](https://oauth.net/2/jwt/)
   - [JSON Web Tokens](https://auth0.com/docs/jwt)
   - [JWT Signing Algorithms Overview](https://auth0.com/blog/json-web-token-signing-algorithms-overview/)
+  - [JWT vs Cookies for Authentication](https://www.youtube.com/watch?v=o9hT7v0OLJc)
 
