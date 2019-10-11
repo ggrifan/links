@@ -4,9 +4,12 @@
 
 # Big Data
 - [Java in Spark | Spark-Submit Job with Spark UI Example | Tech Primers](https://www.youtube.com/watch?v=cu2E0sSlWsY)
+- [Understanding Kafka - Frank Kane](https://www.youtube.com/watch?v=k-7lz6Ex354)
 
-# Patterns
+# Patterns/Architecture
 - [Design Patterns - An introduction - in28Minutes](https://www.youtube.com/watch?v=0jjNjXcYmAU)
+- [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
+- [Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
 
 # Testing
 - [JUnit 5 Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o)
@@ -31,8 +34,12 @@
 - [Spring Boot Microservices Level 1: Communication and Discovery - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas)
 - [Spring Boot Microservices Level 2: Fault Tolerance and Resilience - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e)
 - [Moving beyond REST: GraphQL and Java & Spring by Pratik Patel @ Spring I/O 2019](https://www.youtube.com/watch?v=iHxu2bq3fxI)
+- [Intro to gRPC: A Modern Toolkit for Microservice Communication](https://www.youtube.com/watch?v=RoXT_Rkg8LA)
+- [GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney](https://www.youtube.com/watch?v=kb-m2fasdDY)
 
 # Spring
+- [Spring Boot Reference - HTML](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+- [Spring Boot Reference - HTML Single](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 - [Spring Boot with Spring Kafka Producer Example | Tech Primers](https://www.youtube.com/watch?v=NjHYWEV_E_o)
 - [Spring Boot with Spring Kafka Consumer Example | Tech Primers](https://www.youtube.com/watch?v=IncG0_XSSBg)
 - [Spring Boot with HTTPS Example | Tech Primers](https://www.youtube.com/watch?v=rm9OKTSm-4A)
@@ -66,8 +73,12 @@
 - [Spring MVC Tutorial - Telusko - YouTube](https://www.youtube.com/watch?v=g2b-NbR48Jo)
 - [Architecture Deep Dive in Spring Security - Joe Grandja @ Spring I/O 2017 - YouTube](https://www.youtube.com/watch?v=8rnOsF3RVQc)
 - [Everything You Ever Wanted to Know About Authentication](https://www.youtube.com/watch?v=j8Yxff6L_po)
+- [Authentication as a Microservice](https://www.youtube.com/watch?v=SLc3cTlypwM)
+- [Oktane17: What the Heck is OpenIDConnect?](https://www.youtube.com/watch?v=6ypYXxRPKgk)
 
 ### OAuth
+  - [Secure a Node API with OAuth 2.0 Client Credentials](https://developer.okta.com/blog/2018/06/06/node-api-oauth-client-credentials)
+  - [OAuth2 Simplified - Aaron Parecki](https://aaronparecki.com/oauth-2-simplified/)
   - [OAuth 2.0](https://oauth.net/2/)
   - [Tokens used by Auth0](https://auth0.com/docs/tokens)
   - [Self-Encoded Access Tokens](https://www.oauth.com/oauth2-servers/access-tokens/self-encoded-access-tokens/)
@@ -83,6 +94,7 @@
   - [JWT vs Cookies for Authentication](https://www.youtube.com/watch?v=o9hT7v0OLJc)
   - [What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM)
   - [What makes JSON Web Tokens (JWT) secure?](https://www.youtube.com/watch?v=rCkDE2me_qk)
+  - [5 Steps to Add Modern Authentication to Legacy Apps Using JWTs](https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/)
 
 # JavaScript
 - [Филипп Робертс: Что за чертовщина такая event loop? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
