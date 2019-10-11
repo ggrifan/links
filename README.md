@@ -30,7 +30,7 @@
 - **[Building GraphQL APIs with Kotlin, Spring Boot, and MongoDB](https://auth0.com/blog/building-graphql-apis-with-kotlin-spring-boot-and-mongodb/) !!!**
 - [Moving beyond REST: GraphQL and Java & Spring by Pratik Patel @ Spring I/O 2019](https://www.youtube.com/watch?v=iHxu2bq3fxI)
 
-- **REST**
+### REST
   - [REST API Tutorial](https://www.restapitutorial.com/)
   - [REST Architecture - Part 1: Building The API](https://auth0.com/blog/rest-architecture-part-1-building-api/)
   - [REST Architecture - Part 2: Building the Client](https://auth0.com/blog/rest-architecture-part-2-building-client/)
@@ -39,7 +39,7 @@
   - [Developing RESTful APIs with JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
   - [Advanced JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY40IcG584ynNqibMc1heIa)
 
-- **SOAP**
+### SOAP
   - [SOAP Web Service Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
   - [Spring Web Services (SOAP) in Spring Boot App with example](https://www.youtube.com/watch?v=mr_2-AWYCoc)
 
@@ -100,7 +100,7 @@
 - [CORS Tutorial: A Guide to Cross-Origin Resource Sharing](https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/)
 - [Securing Spring Boot APIs and SPAs with OAuth 2.0](https://auth0.com/blog/securing-spring-boot-apis-and-spas-with-oauth2/)
 
-- **OAuth**
+### OAuth
   - [Secure a Node API with OAuth 2.0 Client Credentials](https://developer.okta.com/blog/2018/06/06/node-api-oauth-client-credentials)
   - [OAuth2 Simplified - Aaron Parecki](https://aaronparecki.com/oauth-2-simplified/)
   - [OAuth 2.0](https://oauth.net/2/)
@@ -111,7 +111,7 @@
   - [Spring Security using OAuth2 in Spring Boot | Tech Primers | YouTube](https://www.youtube.com/watch?v=Dbxzw0cpxBU)
   - [OAuth 2.0 and OpenID Connect (in plain English) - OktaDev](https://www.youtube.com/watch?v=996OiexHze0)
 
-- **JWT**
+### JWT
   - [RFC 7519: JSON Web Token](https://oauth.net/2/jwt/)
   - [JSON Web Tokens](https://auth0.com/docs/jwt)
   - [JWT Signing Algorithms Overview](https://auth0.com/blog/json-web-token-signing-algorithms-overview/)
