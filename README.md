@@ -58,7 +58,7 @@
 - [Spring AOP - JavaBrains](https://www.youtube.com/playlist?list=PLE37064DE302862F8)
 - [Spring Data Support - JavaBrains](https://www.youtube.com/playlist?list=PL1A506B159E5BD13E)
 
-- **Spring Boot**
+### Spring Boot
   - [Spring Boot Reference - HTML](https://docs.spring.io/spring-boot/docs/current/reference/html/)
   - [Spring Boot Reference - HTML Single](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
   - [Spring Boot with Spring Kafka Producer Example | Tech Primers](https://www.youtube.com/watch?v=NjHYWEV_E_o)
@@ -73,14 +73,14 @@
   - [Spring Boot Tutorial For Beginners - in28Minutes](https://www.youtube.com/watch?v=PSP1-2cN7vM)
   - [Spring Boot Tutorials, Best Practices and Tips - in28Minutes](https://www.youtube.com/playlist?list=PLBBog2r6uMCRcybG1UBB6yAqFZbwjAKHi)
 
-- **Spring Reactive**
+### Spring Reactive
   - [Moving from Imperative to Reactive by Paul Harris @ Spring I/O 2019](https://www.youtube.com/watch?v=vSHNBgY7MGA)
   - [Reactive Spring by Josh Long](https://www.youtube.com/watch?v=zVNIZXf4BG8)
   - [Benefits of reactive programming with Reactor and Spring Boot 2 by Violeta Georgieva](https://www.youtube.com/watch?v=ODzY5uJfzDI)
   - [GOTO 2019 • Reactive Spring • Josh Long](https://www.youtube.com/watch?v=1F10gr2pbvQ)
   - [Introduction to Spring WebFlux](https://auth0.com/blog/introduction-getting-started-with-spring-webflux-api/)
 
-- **Spring MVC**
+### Spring MVC
   - [Spring MVC Tutorial for Beginners - in28Minutes](https://www.youtube.com/watch?v=BjNhGaZDr0Y)
   - [Spring MVC Tutorial - Telusko - YouTube](https://www.youtube.com/watch?v=g2b-NbR48Jo)
 
