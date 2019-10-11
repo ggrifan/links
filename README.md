@@ -1,6 +1,7 @@
 # JavaSE
 - [Java 9 | Modular Programming | Hands-on with Modules | Tech Primers](https://www.youtube.com/watch?v=4EXcded_P70)
 - [What is MicroFramework? | Top 5 MicroFrameworks for JVM | Tech Primers](https://www.youtube.com/watch?v=0HWD8ulTtu4)
+- [Avoiding Java Boilerplate Code with Project Lombok](https://auth0.com/blog/avoiding-java-boilerplate-code-with-project-lombok/)
 
 # Big Data
 - [Java in Spark | Spark-Submit Job with Spark UI Example | Tech Primers](https://www.youtube.com/watch?v=cu2E0sSlWsY)
@@ -21,19 +22,29 @@
 
 # Docker
 - [Docker Tutorials for Beginners - in28Minutes](https://www.youtube.com/playlist?list=PLBBog2r6uMCQRT8JCwo5A23yjRZYGglL3)
+- [Use Docker to Create a Node Development Environment](https://auth0.com/blog/use-docker-to-create-a-node-development-environment/)
+- [Get started with Docker for Windows](https://docs.docker.com/docker-for-windows/)
+- [Quickstart](https://docs.docker.com/get-started/)
 
-# WebServices
-- [REST API Tutorial](https://www.restapitutorial.com/)
-- [REST API Documentation using Swagger2 in Spring Boot - Tech Primers - YouTube](https://www.youtube.com/watch?v=HHyjWc0ASl8)
-- [Developing RESTful APIs with JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
-- [Advanced JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY40IcG584ynNqibMc1heIa)
-- [SOAP Web Service Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
+# WebServices/API
+- **[Building GraphQL APIs with Kotlin, Spring Boot, and MongoDB](https://auth0.com/blog/building-graphql-apis-with-kotlin-spring-boot-and-mongodb/) !!!**
+- [Moving beyond REST: GraphQL and Java & Spring by Pratik Patel @ Spring I/O 2019](https://www.youtube.com/watch?v=iHxu2bq3fxI)
+- **REST**
+  - [REST API Tutorial](https://www.restapitutorial.com/)
+  - [REST Architecture - Part 1: Building The API](https://auth0.com/blog/rest-architecture-part-1-building-api/)
+  - [REST Architecture - Part 2: Building the Client](https://auth0.com/blog/rest-architecture-part-2-building-client/)
+  - [Spring Data REST Tutorial: Developing RESTful APIs with Ease](https://auth0.com/blog/spring-data-rest-tutorial-developing-rest-apis-with-ease/)
+  - [REST API Documentation using Swagger2 in Spring Boot - Tech Primers - YouTube](https://www.youtube.com/watch?v=HHyjWc0ASl8)
+  - [Developing RESTful APIs with JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
+  - [Advanced JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY40IcG584ynNqibMc1heIa)
+
+- **SOAP**
+  - [SOAP Web Service Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
+  - [Spring Web Services (SOAP) in Spring Boot App with example](https://www.youtube.com/watch?v=mr_2-AWYCoc)
 
 # Microservices
-- [Spring Web Services (SOAP) in Spring Boot App with example](https://www.youtube.com/watch?v=mr_2-AWYCoc)
 - [Spring Boot Microservices Level 1: Communication and Discovery - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas)
 - [Spring Boot Microservices Level 2: Fault Tolerance and Resilience - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e)
-- [Moving beyond REST: GraphQL and Java & Spring by Pratik Patel @ Spring I/O 2019](https://www.youtube.com/watch?v=iHxu2bq3fxI)
 - [Intro to gRPC: A Modern Toolkit for Microservice Communication](https://www.youtube.com/watch?v=RoXT_Rkg8LA)
 - [GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney](https://www.youtube.com/watch?v=kb-m2fasdDY)
 
@@ -63,6 +74,7 @@
 - [Spring Boot Tutorial For Beginners - in28Minutes](https://www.youtube.com/watch?v=PSP1-2cN7vM)
 - [Spring MVC Tutorial for Beginners - in28Minutes](https://www.youtube.com/watch?v=BjNhGaZDr0Y)
 - [Spring Boot Tutorials, Best Practices and Tips - in28Minutes](https://www.youtube.com/playlist?list=PLBBog2r6uMCRcybG1UBB6yAqFZbwjAKHi)
+- [Introduction to Spring WebFlux](https://auth0.com/blog/introduction-getting-started-with-spring-webflux-api/)
 
 # Security
 - [Implementing Microservices Security Patterns & Protocols with Spring Security by Joe Grandja](https://www.youtube.com/watch?v=v2J32nd0g24)
@@ -75,6 +87,11 @@
 - [Everything You Ever Wanted to Know About Authentication](https://www.youtube.com/watch?v=j8Yxff6L_po)
 - [Authentication as a Microservice](https://www.youtube.com/watch?v=SLc3cTlypwM)
 - [Oktane17: What the Heck is OpenIDConnect?](https://www.youtube.com/watch?v=6ypYXxRPKgk)
+- [Authorization Series - Pt 1: What is Authorization?](https://auth0.com/blog/authorization-series-pt-1-what-is-authorization/)
+- [Authorization Series — Pt 2: Securing HTTP APIs with RBAC rules](https://auth0.com/blog/authorization-series-pt-2-securing-http-apis-with-rbac-rules/)
+- [Authorization Series - Pt 3: Dynamic Authorization with GraphQL and Rules](https://auth0.com/blog/authorization-series-pt-3-dynamic-authorization-with-graphql-and-rules/)
+- [CORS Tutorial: A Guide to Cross-Origin Resource Sharing](https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/)
+- [Securing Spring Boot APIs and SPAs with OAuth 2.0](https://auth0.com/blog/securing-spring-boot-apis-and-spas-with-oauth2/)
 
 ### OAuth
   - [Secure a Node API with OAuth 2.0 Client Credentials](https://developer.okta.com/blog/2018/06/06/node-api-oauth-client-credentials)
@@ -95,7 +112,34 @@
   - [What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM)
   - [What makes JSON Web Tokens (JWT) secure?](https://www.youtube.com/watch?v=rCkDE2me_qk)
   - [5 Steps to Add Modern Authentication to Legacy Apps Using JWTs](https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/)
+  - [Token Based Authentication Made Easy](https://auth0.com/learn/token-based-authentication-made-easy/)
+  - [Get Started with JSON Web Tokens](https://auth0.com/learn/json-web-tokens/)
 
 # JavaScript
 - [Филипп Робертс: Что за чертовщина такая event loop? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [Zero Config JavaScript App Prototyping with Webpack](https://auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/)
+
+### Angular
+  - [Building an Audio Player app with Angular and RxJS](https://auth0.com/blog/building-an-audio-player-app-with-angular-and-rxjs/)
+
+### React
+  - [Beyond Create React App: React Router, Redux Saga, and More](https://auth0.com/blog/beyond-create-react-app-react-router-redux-saga-and-more/)
+  - [Developing and Securing Modern Apps with GraphQL, React, and Apollo](https://auth0.com/blog/develop-modern-apps-with-react-graphql-apollo-and-add-authentication/)
+
+### Vue.js
+  - [State Management with Vuex: a Practical Tutorial](https://auth0.com/blog/state-management-with-vuex-a-practical-tutorial/)
+
+
+# Android
+- [Android Tutorial: Building and Securing Your First App (Part 1)](https://auth0.com/blog/android-tutorial-building-and-securing-your-first-app-part-1/)
+- [Android Tutorial: Building and Securing Your First App (Part 2)](https://auth0.com/blog/android-tutorial-building-and-securing-your-first-app-part-2/)
+
+# FullStack
+- [Vue.js, Spring Boot, Kotlin, and GraphQL: Building Modern Apps - Part 1](https://auth0.com/blog/vuejs-spring-boot-kotlin-and-graphql-building-modern-apps-part-1/)
+- [Vue.js, Spring Boot, Kotlin, and GraphQL: Building Modern Apps - Part 2](https://auth0.com/blog/vuejs-spring-boot-kotlin-and-graphql-building-modern-apps-part-2/)
+
+# Other
+- [Convert Windows PC to Linux (Ubuntu)](https://auth0.com/blog/convert-windows-pc-to-linux-ubuntu-dev-environment/)
+
+
 
