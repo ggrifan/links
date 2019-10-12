@@ -27,7 +27,14 @@
 - [Quickstart](https://docs.docker.com/get-started/)
 
 # Database
+- [Database Migrations with Flyway](https://www.baeldung.com/database-migrations-with-flyway)
+- [Spring Boot Database Migrations with Flyway](https://www.callicoder.com/spring-boot-flyway-database-migration-example/)
+- [Spring Boot Database Migrations with Flyway -Example | Java Techie](https://www.youtube.com/watch?v=w12DsiqpxEg)
+- [Build a Spring Boot App With Flyway and Postgres](https://dzone.com/articles/build-a-spring-boot-app-with-flyway-and-postgres)
+- [Learn PostgreSQL Tutorial - Full Course for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=qw--VYLpxG4)
+- [SQL Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
 - [Database Versioning with Flyway and Java](https://auth0.com/blog/incrementally-changing-your-database-with-java-and-flyway/)
+- [PostgreSQL основы](https://www.youtube.com/playlist?list=PLvItDmb0sZw_9bh2KeIKe4KkqKmhLbj3Z)
 
 # WebServices/API
 - **[Building GraphQL APIs with Kotlin, Spring Boot, and MongoDB](https://auth0.com/blog/building-graphql-apis-with-kotlin-spring-boot-and-mongodb/) !!!**
