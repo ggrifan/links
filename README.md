@@ -30,11 +30,16 @@
 - [Database Migrations with Flyway](https://www.baeldung.com/database-migrations-with-flyway)
 - [Spring Boot Database Migrations with Flyway](https://www.callicoder.com/spring-boot-flyway-database-migration-example/)
 - [Spring Boot Database Migrations with Flyway -Example | Java Techie](https://www.youtube.com/watch?v=w12DsiqpxEg)
+- [Spring Boot Database Initialization](https://www.youtube.com/playlist?list=PLzS3AYzXBoj8VNf3DLdgxc9TfZzk19qMQ)
 - [Build a Spring Boot App With Flyway and Postgres](https://dzone.com/articles/build-a-spring-boot-app-with-flyway-and-postgres)
 - [Learn PostgreSQL Tutorial - Full Course for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=qw--VYLpxG4)
 - [SQL Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
 - [Database Versioning with Flyway and Java](https://auth0.com/blog/incrementally-changing-your-database-with-java-and-flyway/)
 - [PostgreSQL основы](https://www.youtube.com/playlist?list=PLvItDmb0sZw_9bh2KeIKe4KkqKmhLbj3Z)
+- [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
+- [17 Practical psql Commands That You Don’t Want To Miss](http://www.postgresqltutorial.com/psql-commands/)
+- [Spring Boot Flyway Example of Database Migration with JPA and Hibernate](https://hellokoding.com/database-migration-evolution-with-flyway-and-jpa-hibernate/)
+- [Flyway Tutorial](https://www.youtube.com/playlist?list=PL8LikImwls6J2EVW0AGWex-9jnoQizuOw)
 
 # WebServices/API
 - **[Building GraphQL APIs with Kotlin, Spring Boot, and MongoDB](https://auth0.com/blog/building-graphql-apis-with-kotlin-spring-boot-and-mongodb/) !!!**
@@ -46,6 +51,7 @@
   - [REST Architecture - Part 2: Building the Client](https://auth0.com/blog/rest-architecture-part-2-building-client/)
   - [Spring Data REST Tutorial: Developing RESTful APIs with Ease](https://auth0.com/blog/spring-data-rest-tutorial-developing-rest-apis-with-ease/)
   - [REST API Documentation using Swagger2 in Spring Boot - Tech Primers - YouTube](https://www.youtube.com/watch?v=HHyjWc0ASl8)
+  - [Spring Boot REST API Documentation with Swagger and SpringFox](https://hellokoding.com/spring-boot-restful-api-documentation-with-swagger-and-springfox/)
   - [Developing RESTful APIs with JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
   - [Advanced JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY40IcG584ynNqibMc1heIa)
   - [Developing RESTful APIs with Kotlin](https://auth0.com/blog/developing-restful-apis-with-kotlin/)
