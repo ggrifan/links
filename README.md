@@ -26,6 +26,9 @@
 - [Get started with Docker for Windows](https://docs.docker.com/docker-for-windows/)
 - [Quickstart](https://docs.docker.com/get-started/)
 
+# Database
+- [Database Versioning with Flyway and Java](https://auth0.com/blog/incrementally-changing-your-database-with-java-and-flyway/)
+
 # WebServices/API
 - **[Building GraphQL APIs with Kotlin, Spring Boot, and MongoDB](https://auth0.com/blog/building-graphql-apis-with-kotlin-spring-boot-and-mongodb/) !!!**
 - [Moving beyond REST: GraphQL and Java & Spring by Pratik Patel @ Spring I/O 2019](https://www.youtube.com/watch?v=iHxu2bq3fxI)
@@ -38,6 +41,7 @@
   - [REST API Documentation using Swagger2 in Spring Boot - Tech Primers - YouTube](https://www.youtube.com/watch?v=HHyjWc0ASl8)
   - [Developing RESTful APIs with JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
   - [Advanced JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY40IcG584ynNqibMc1heIa)
+  - [Developing RESTful APIs with Kotlin](https://auth0.com/blog/developing-restful-apis-with-kotlin/)
 
 ### SOAP
   - [SOAP Web Service Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
@@ -57,6 +61,7 @@
 - [Spring Framework - JavaBrains](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7)
 - [Spring AOP - JavaBrains](https://www.youtube.com/playlist?list=PLE37064DE302862F8)
 - [Spring Data Support - JavaBrains](https://www.youtube.com/playlist?list=PL1A506B159E5BD13E)
+- [Spring 5, Embedded Tomcat 8, and Gradle: a Quick Tutorial](https://auth0.com/blog/spring-5-embedded-tomcat-8-gradle-tutorial/)
 
 ### Spring Boot
   - [Spring Boot Reference - HTML](https://docs.spring.io/spring-boot/docs/current/reference/html/)
@@ -72,6 +77,10 @@
   - [Spring Boot Quick Start - JavaBrains - YouTube](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
   - [Spring Boot Tutorial For Beginners - in28Minutes](https://www.youtube.com/watch?v=PSP1-2cN7vM)
   - [Spring Boot Tutorials, Best Practices and Tips - in28Minutes](https://www.youtube.com/playlist?list=PLBBog2r6uMCRcybG1UBB6yAqFZbwjAKHi)
+  - [Integrating Spring Data JPA, PostgreSQL, and Liquibase](https://auth0.com/blog/integrating-spring-data-jpa-postgresql-liquibase/)
+  - [Exception Handling and I18N on Spring Boots APIs](https://auth0.com/blog/exception-handling-and-i18n-on-spring-boots-apis/)
+  - [Automatically Mapping DTO to Entity on Spring Boot APIs](https://auth0.com/blog/automatically-mapping-dto-to-entity-on-spring-boot-apis/)
+  - [Implementing JWT Authentication on Spring Boot APIs](https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/)
 
 ### Spring Reactive
   - [Moving from Imperative to Reactive by Paul Harris @ Spring I/O 2019](https://www.youtube.com/watch?v=vSHNBgY7MGA)
@@ -99,6 +108,7 @@
 - [Authorization Series - Pt 3: Dynamic Authorization with GraphQL and Rules](https://auth0.com/blog/authorization-series-pt-3-dynamic-authorization-with-graphql-and-rules/)
 - [CORS Tutorial: A Guide to Cross-Origin Resource Sharing](https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/)
 - [Securing Spring Boot APIs and SPAs with OAuth 2.0](https://auth0.com/blog/securing-spring-boot-apis-and-spas-with-oauth2/)
+- [How to create an application in Kotlin and secure it using JSON Web Tokens (JWTs)](https://auth0.com/blog/how-to-create-a-kotlin-app-and-secure-it-using-jwt/)
 
 ### OAuth
   - [Secure a Node API with OAuth 2.0 Client Credentials](https://developer.okta.com/blog/2018/06/06/node-api-oauth-client-credentials)
@@ -112,6 +122,7 @@
   - [OAuth 2.0 and OpenID Connect (in plain English) - OktaDev](https://www.youtube.com/watch?v=996OiexHze0)
 
 ### JWT
+  - [Navigating RS256 and JWKS](https://auth0.com/blog/navigating-rs256-and-jwks/)
   - [RFC 7519: JSON Web Token](https://oauth.net/2/jwt/)
   - [JSON Web Tokens](https://auth0.com/docs/jwt)
   - [JWT Signing Algorithms Overview](https://auth0.com/blog/json-web-token-signing-algorithms-overview/)
@@ -125,9 +136,26 @@
 # JavaScript
 - [Филипп Робертс: Что за чертовщина такая event loop? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Zero Config JavaScript App Prototyping with Webpack](https://auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/)
+- [Creating Web Components with Stencil](https://auth0.com/blog/creating-web-components-with-stencil/)
 
 ### Angular
+  - [Understanding Angular 2 change detection](https://auth0.com/blog/understanding-angular-2-change-detection/)
+  - [Angular Testing In Depth: Components](https://auth0.com/blog/angular-testing-in-depth-components/)
+  - [Angular Testing In Depth: Services](https://auth0.com/blog/angular-2-testing-in-depth-services/)
+  - [Angular Testing In Depth: HTTP Services](https://auth0.com/blog/angular-testing-in-depth-http-services/)
   - [Building an Audio Player app with Angular and RxJS](https://auth0.com/blog/building-an-audio-player-app-with-angular-and-rxjs/)
+  - [Real-Time Charts using Angular, D3, and Socket.IO](https://auth0.com/blog/real-time-charts-using-angular-d3-and-socket-io/)
+  - [Creating Beautiful Apps with Angular Material](https://auth0.com/blog/creating-beautiful-apps-with-angular-material/)
+  - [RxJS Advanced Tutorial With Angular & Web Speech: Part 1](https://auth0.com/blog/rxjs-advanced-tutorial-with-angular-web-speech-part-1/)
+  - [RxJS Advanced Tutorial With Angular & Web Speech: Part 2](https://auth0.com/blog/rxjs-advanced-tutorial-with-angular-web-speech-part-2/)
+  - [Real-World Angular Series - Part 1: MEAN Setup & Angular Architecture](https://auth0.com/blog/real-world-angular-series-part-1/)
+  - [Real-World Angular Series - Part 2: Authentication and Data Modeling](https://auth0.com/blog/real-world-angular-series-part-2/)
+  - [Real-World Angular Series - Part 3: Fetching and Displaying API Data](https://auth0.com/blog/real-world-angular-series-part-3/)
+  - [Real-World Angular Series - Part 4: Access Management, Admin, and Detail Pages](https://auth0.com/blog/real-world-angular-series-part-4/)
+  - [Real-World Angular Series - Part 5: Animation and Template-Driven Forms](https://auth0.com/blog/real-world-angular-series-part-5/)
+  - [Real-World Angular Series - Part 6: Reactive Forms and Custom Validation](https://auth0.com/blog/real-world-angular-series-part-6/)
+  - [Real-World Angular Series - Part 7: Relational Data and Token Renewal](https://auth0.com/blog/real-world-angular-series-part-7/)
+  - [Real-World Angular Series - Part 8: Lazy Loading, Production Deployment, SSL](https://auth0.com/blog/real-world-angular-series-part-8/)
 
 ### React
   - [Beyond Create React App: React Router, Redux Saga, and More](https://auth0.com/blog/beyond-create-react-app-react-router-redux-saga-and-more/)
@@ -140,6 +168,8 @@
 # Android
 - [Android Tutorial: Building and Securing Your First App (Part 1)](https://auth0.com/blog/android-tutorial-building-and-securing-your-first-app-part-1/)
 - [Android Tutorial: Building and Securing Your First App (Part 2)](https://auth0.com/blog/android-tutorial-building-and-securing-your-first-app-part-2/)
+- [Authenticating Android Apps Developed in Kotlin](https://auth0.com/blog/authenticating-android-apps-developed-with-kotlin/)
+- [Android Development: 15 Libraries You Should Be Using](https://auth0.com/blog/android-development-15-libraries-you-should-be-using/)
 
 # FullStack
 - [Vue.js, Spring Boot, Kotlin, and GraphQL: Building Modern Apps - Part 1](https://auth0.com/blog/vuejs-spring-boot-kotlin-and-graphql-building-modern-apps-part-1/)
