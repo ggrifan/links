@@ -1,7 +1,15 @@
+# Channels
+- [KK JavaTutorials](https://www.youtube.com/channel/UC9aUqnxhYLge4tLdBI50Cwg/playlists)
+- [JavaInUse](https://www.youtube.com/channel/UCbz69gWlMmsIn-jiIm6mGfg/playlists)
+
 # JavaSE
+- [Java 8 Lambda Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3)
 - [Java 9 | Modular Programming | Hands-on with Modules | Tech Primers](https://www.youtube.com/watch?v=4EXcded_P70)
 - [What is MicroFramework? | Top 5 MicroFrameworks for JVM | Tech Primers](https://www.youtube.com/watch?v=0HWD8ulTtu4)
 - [Avoiding Java Boilerplate Code with Project Lombok](https://auth0.com/blog/avoiding-java-boilerplate-code-with-project-lombok/)
+
+# JavaEE
+- [JSPs and Servlets - JavaBrains](https://www.youtube.com/playlist?list=PLE0F6C1917A427E96)
 
 # Big Data
 - [Java in Spark | Spark-Submit Job with Spark UI Example | Tech Primers](https://www.youtube.com/watch?v=cu2E0sSlWsY)
@@ -16,6 +24,7 @@
 - [JUnit 5 Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o)
 - [Testing Spring Boot Applications by Andy Wilkinson @ Spring I/O 2019](https://www.youtube.com/watch?v=5sjFn9BsAds)
 - [JUnit 5: what's new and what's coming by Sam Brannen @ Spring I/O 2019](https://www.youtube.com/watch?v=AGcdT1W3eXA)
+- [Spring boot testing tutorial](https://www.youtube.com/playlist?list=PLzS3AYzXBoj9PGVglzLgvS0JE5J_ucpuW)
 
 # Maven/Gradle
 - [Maven Tutorial for Beginners: with Eclipse - in28Minutes](https://www.youtube.com/watch?v=0CFWeVgzsqY)
@@ -27,19 +36,27 @@
 - [Quickstart](https://docs.docker.com/get-started/)
 
 # Database
-- [Database Migrations with Flyway](https://www.baeldung.com/database-migrations-with-flyway)
-- [Spring Boot Database Migrations with Flyway](https://www.callicoder.com/spring-boot-flyway-database-migration-example/)
-- [Spring Boot Database Migrations with Flyway -Example | Java Techie](https://www.youtube.com/watch?v=w12DsiqpxEg)
-- [Spring Boot Database Initialization](https://www.youtube.com/playlist?list=PLzS3AYzXBoj8VNf3DLdgxc9TfZzk19qMQ)
-- [Build a Spring Boot App With Flyway and Postgres](https://dzone.com/articles/build-a-spring-boot-app-with-flyway-and-postgres)
-- [Learn PostgreSQL Tutorial - Full Course for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=qw--VYLpxG4)
-- [SQL Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
-- [Database Versioning with Flyway and Java](https://auth0.com/blog/incrementally-changing-your-database-with-java-and-flyway/)
-- [PostgreSQL основы](https://www.youtube.com/playlist?list=PLvItDmb0sZw_9bh2KeIKe4KkqKmhLbj3Z)
-- [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
-- [17 Practical psql Commands That You Don’t Want To Miss](http://www.postgresqltutorial.com/psql-commands/)
-- [Spring Boot Flyway Example of Database Migration with JPA and Hibernate](https://hellokoding.com/database-migration-evolution-with-flyway-and-jpa-hibernate/)
-- [Flyway Tutorial](https://www.youtube.com/playlist?list=PL8LikImwls6J2EVW0AGWex-9jnoQizuOw)
+- [Hibernate - JavaBrains](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
+- [Spring Boot JDBC](https://www.youtube.com/playlist?list=PLzS3AYzXBoj926GNGXBf6GSKq4VJR-aK4)
+
+### SQL
+  - [SQL Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
+
+### PostgreSQL
+  - [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
+  - [PostgreSQL основы](https://www.youtube.com/playlist?list=PLvItDmb0sZw_9bh2KeIKe4KkqKmhLbj3Z)
+  - [Learn PostgreSQL Tutorial - Full Course for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=qw--VYLpxG4)
+  - [17 Practical psql Commands That You Don’t Want To Miss](http://www.postgresqltutorial.com/psql-commands/)
+
+### Migration
+  - [Spring Boot Database Initialization](https://www.youtube.com/playlist?list=PLzS3AYzXBoj8VNf3DLdgxc9TfZzk19qMQ)
+  - [Spring Boot Database Migrations with Flyway](https://www.callicoder.com/spring-boot-flyway-database-migration-example/)
+  - [Spring Boot Database Migrations with Flyway -Example | Java Techie](https://www.youtube.com/watch?v=w12DsiqpxEg)
+  - [Build a Spring Boot App With Flyway and Postgres](https://dzone.com/articles/build-a-spring-boot-app-with-flyway-and-postgres)
+  - [Database Migrations with Flyway](https://www.baeldung.com/database-migrations-with-flyway)
+  - [Database Versioning with Flyway and Java](https://auth0.com/blog/incrementally-changing-your-database-with-java-and-flyway/)
+  - [Flyway Tutorial](https://www.youtube.com/playlist?list=PL8LikImwls6J2EVW0AGWex-9jnoQizuOw)
+  - [Spring Boot Flyway Example of Database Migration with JPA and Hibernate](https://hellokoding.com/database-migration-evolution-with-flyway-and-jpa-hibernate/)
 
 # WebServices/API
 - **[Building GraphQL APIs with Kotlin, Spring Boot, and MongoDB](https://auth0.com/blog/building-graphql-apis-with-kotlin-spring-boot-and-mongodb/) !!!**
@@ -50,21 +67,23 @@
   - [REST Architecture - Part 1: Building The API](https://auth0.com/blog/rest-architecture-part-1-building-api/)
   - [REST Architecture - Part 2: Building the Client](https://auth0.com/blog/rest-architecture-part-2-building-client/)
   - [Spring Data REST Tutorial: Developing RESTful APIs with Ease](https://auth0.com/blog/spring-data-rest-tutorial-developing-rest-apis-with-ease/)
-  - [REST API Documentation using Swagger2 in Spring Boot - Tech Primers - YouTube](https://www.youtube.com/watch?v=HHyjWc0ASl8)
-  - [Spring Boot REST API Documentation with Swagger and SpringFox](https://hellokoding.com/spring-boot-restful-api-documentation-with-swagger-and-springfox/)
   - [Developing RESTful APIs with JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
   - [Advanced JAX-RS - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTY40IcG584ynNqibMc1heIa)
   - [Developing RESTful APIs with Kotlin](https://auth0.com/blog/developing-restful-apis-with-kotlin/)
+  - [Spring Boot RESTful Web Services Tutorial - KK JavaTutorials](https://www.youtube.com/playlist?list=PLzS3AYzXBoj9f7k7jtiMpQblUGv0lO5Js)
+  - [Spring Boot RESTful API Documentation With Swagger - KK JavaTutorials](https://www.youtube.com/playlist?list=PLzS3AYzXBoj-_gM7nBlqkRZaf1YuMEZLL)
+  - [REST API Documentation using Swagger2 in Spring Boot - Tech Primers - YouTube](https://www.youtube.com/watch?v=HHyjWc0ASl8)
+  - [Spring Boot REST API Documentation with Swagger and SpringFox](https://hellokoding.com/spring-boot-restful-api-documentation-with-swagger-and-springfox/)
 
 ### SOAP
   - [SOAP Web Service Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
   - [Spring Web Services (SOAP) in Spring Boot App with example](https://www.youtube.com/watch?v=mr_2-AWYCoc)
 
 # Microservices
-- [Spring Boot Microservices Level 1: Communication and Discovery - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas)
-- [Spring Boot Microservices Level 2: Fault Tolerance and Resilience - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e)
+- [Spring Boot Microservices - JavaBrains](https://www.youtube.com/user/koushks/playlists?view=50&sort=dd&shelf_id=12)
 - [Intro to gRPC: A Modern Toolkit for Microservice Communication](https://www.youtube.com/watch?v=RoXT_Rkg8LA)
 - [GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney](https://www.youtube.com/watch?v=kb-m2fasdDY)
+- [What is service discovery really all about?](https://www.youtube.com/watch?v=GboiMJm6WlA)
 
 # Spring
 - [Clean Architecture with Spring by Tom Hombergs @ Spring I/O 2019](https://www.youtube.com/watch?v=cPH5AiqLQTo)
@@ -75,8 +94,10 @@
 - [Spring AOP - JavaBrains](https://www.youtube.com/playlist?list=PLE37064DE302862F8)
 - [Spring Data Support - JavaBrains](https://www.youtube.com/playlist?list=PL1A506B159E5BD13E)
 - [Spring 5, Embedded Tomcat 8, and Gradle: a Quick Tutorial](https://auth0.com/blog/spring-5-embedded-tomcat-8-gradle-tutorial/)
+- [Spring Framework Tutorial](https://www.youtube.com/playlist?list=PLzS3AYzXBoj8U0zgO7Kuu_2KtclkB1gSV)
 
 ### Spring Boot
+  - [Spring Boot Tutorial(All In One)](https://www.youtube.com/playlist?list=PLzS3AYzXBoj8UcLsBN3UXd7Nf1T4ZyJa0)
   - [Spring Boot Reference - HTML](https://docs.spring.io/spring-boot/docs/current/reference/html/)
   - [Spring Boot Reference - HTML Single](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
   - [Spring Boot with Spring Kafka Producer Example | Tech Primers](https://www.youtube.com/watch?v=NjHYWEV_E_o)
@@ -110,20 +131,22 @@
 - [Implementing Microservices Security Patterns & Protocols with Spring Security by Joe Grandja](https://www.youtube.com/watch?v=v2J32nd0g24)
 - [Intro to Digital Certificates - Dave Crabbe](https://www.youtube.com/watch?v=qXLD2UHq2vk)
 - [Digital Certificates: Chain of Trust - Dave Crabbe](https://www.youtube.com/watch?v=heacxYUnFHA)
-- [Spring Security Tutorial - Telusko - YouTube](https://www.youtube.com/watch?v=fjkelzWNSuA)
-- [Spring Boot Security - Telusko - YouTube](https://www.youtube.com/playlist?list=PLsyeobzWxl7o-Ul7lhFb9-fLjDYapcetO)
-- [Architecture Deep Dive in Spring Security - Joe Grandja @ Spring I/O 2017 - YouTube](https://www.youtube.com/watch?v=8rnOsF3RVQc)
 - [Everything You Ever Wanted to Know About Authentication](https://www.youtube.com/watch?v=j8Yxff6L_po)
 - [Authentication as a Microservice](https://www.youtube.com/watch?v=SLc3cTlypwM)
-- [Oktane17: What the Heck is OpenIDConnect?](https://www.youtube.com/watch?v=6ypYXxRPKgk)
+- [Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)](https://www.youtube.com/watch?v=2PPSXonhIck)
 - [Authorization Series - Pt 1: What is Authorization?](https://auth0.com/blog/authorization-series-pt-1-what-is-authorization/)
 - [Authorization Series - Pt 2: Securing HTTP APIs with RBAC rules](https://auth0.com/blog/authorization-series-pt-2-securing-http-apis-with-rbac-rules/)
 - [Authorization Series - Pt 3: Dynamic Authorization with GraphQL and Rules](https://auth0.com/blog/authorization-series-pt-3-dynamic-authorization-with-graphql-and-rules/)
 - [CORS Tutorial: A Guide to Cross-Origin Resource Sharing](https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/)
-- [Securing Spring Boot APIs and SPAs with OAuth 2.0](https://auth0.com/blog/securing-spring-boot-apis-and-spas-with-oauth2/)
-- [How to create an application in Kotlin and secure it using JSON Web Tokens (JWTs)](https://auth0.com/blog/how-to-create-a-kotlin-app-and-secure-it-using-jwt/)
 
-### OAuth
+### Spring Security
+  - [Spring Security Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE)
+  - [Spring Boot Security Tutorial](https://www.youtube.com/playlist?list=PLzS3AYzXBoj_OOobvCvUYwENKxFhwTyqH)
+  - [Spring Security Tutorial - Telusko - YouTube](https://www.youtube.com/watch?v=fjkelzWNSuA)
+  - [Spring Boot Security - Telusko - YouTube](https://www.youtube.com/playlist?list=PLsyeobzWxl7o-Ul7lhFb9-fLjDYapcetO)
+  - [Architecture Deep Dive in Spring Security - Joe Grandja @ Spring I/O 2017 - YouTube](https://www.youtube.com/watch?v=8rnOsF3RVQc)
+
+### OAuth/OpenIDConnect
   - [Secure a Node API with OAuth 2.0 Client Credentials](https://developer.okta.com/blog/2018/06/06/node-api-oauth-client-credentials)
   - [OAuth2 Simplified - Aaron Parecki](https://aaronparecki.com/oauth-2-simplified/)
   - [OAuth 2.0](https://oauth.net/2/)
@@ -132,7 +155,9 @@
   - [OAuth - Alex Bilbie](https://alexbilbie.com/tag/oauth/)
   - [A Guide To OAuth 2.0 Grants - Alex Bilbie](https://alexbilbie.com/guide-to-oauth-2-grants/)
   - [Spring Security using OAuth2 in Spring Boot | Tech Primers | YouTube](https://www.youtube.com/watch?v=Dbxzw0cpxBU)
+  - [Securing Spring Boot APIs and SPAs with OAuth 2.0](https://auth0.com/blog/securing-spring-boot-apis-and-spas-with-oauth2/)
   - [OAuth 2.0 and OpenID Connect (in plain English) - OktaDev](https://www.youtube.com/watch?v=996OiexHze0)
+  - [Oktane17: What the Heck is OpenIDConnect?](https://www.youtube.com/watch?v=6ypYXxRPKgk)
 
 ### JWT
   - [Navigating RS256 and JWKS](https://auth0.com/blog/navigating-rs256-and-jwks/)
@@ -145,6 +170,9 @@
   - [5 Steps to Add Modern Authentication to Legacy Apps Using JWTs](https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/)
   - [Token Based Authentication Made Easy](https://auth0.com/learn/token-based-authentication-made-easy/)
   - [Get Started with JSON Web Tokens](https://auth0.com/learn/json-web-tokens/)
+  - [How to create an application in Kotlin and secure it using JSON Web Tokens (JWTs)](https://auth0.com/blog/how-to-create-a-kotlin-app-and-secure-it-using-jwt/)
+  - [What is JWT authorization really about - Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI)
+  - [What is the structure of a JWT - Java Brains](https://www.youtube.com/watch?v=_XbXkVdoG_0)
 
 # JavaScript
 - [Филипп Робертс: Что за чертовщина такая event loop? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
