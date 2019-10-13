@@ -1,6 +1,14 @@
 # Channels
 - [KK JavaTutorials](https://www.youtube.com/channel/UC9aUqnxhYLge4tLdBI50Cwg/playlists)
 - [JavaInUse](https://www.youtube.com/channel/UCbz69gWlMmsIn-jiIm6mGfg/playlists)
+- [Automation Step by Step - Raghav Pal](https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg/playlists)
+
+# VCS
+- [GitLab Beginner Tutorial - Automation Step by Step - Raghav Pal](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8YSnCiyQ-jD8XfHC2W1NL_)
+- [Git and GitHub - Automation Step by Step - Raghav Pal](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG)
+
+# 
+
 
 # JavaSE
 - [Java 8 Lambda Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3)
@@ -34,6 +42,7 @@
 - [Use Docker to Create a Node Development Environment](https://auth0.com/blog/use-docker-to-create-a-node-development-environment/)
 - [Get started with Docker for Windows](https://docs.docker.com/docker-for-windows/)
 - [Quickstart](https://docs.docker.com/get-started/)
+- [Docker - Automation Step by Step - Raghav Pal](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
 
 # Database
 - [Hibernate - JavaBrains](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
@@ -61,6 +70,7 @@
 # WebServices/API
 - **[Building GraphQL APIs with Kotlin, Spring Boot, and MongoDB](https://auth0.com/blog/building-graphql-apis-with-kotlin-spring-boot-and-mongodb/) !!!**
 - [Moving beyond REST: GraphQL and Java & Spring by Pratik Patel @ Spring I/O 2019](https://www.youtube.com/watch?v=iHxu2bq3fxI)
+- [SoapUI - Automation Step by Step - Raghav Pal](https://www.youtube.com/playlist?list=PLhW3qG5bs-L-Bt9T_bnyflQ0Te4VgFhKF)
 
 ### REST
   - [REST API Tutorial](https://www.restapitutorial.com/)
