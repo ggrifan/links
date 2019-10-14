@@ -22,6 +22,12 @@
 # Big Data
 - [Java in Spark | Spark-Submit Job with Spark UI Example | Tech Primers](https://www.youtube.com/watch?v=cu2E0sSlWsY)
 - [Understanding Kafka - Frank Kane](https://www.youtube.com/watch?v=k-7lz6Ex354)
+- [Elasticsearch - Frank Kane](https://www.youtube.com/playlist?list=PLBtyBPTlyC7sPQDrYOEcQC3d1txIwF299)
+- [Elasticsearch Tutorial for Beginners - Frank Kane](https://www.youtube.com/watch?v=C3tlMqaNSaI)
+- [Elasticsearch Tutorial - Edureka](https://www.youtube.com/watch?v=1EnvkPf7t6Y)
+- [ElasticSearch что это такое - LiveCodingSchool](https://www.youtube.com/watch?v=qDt70R4i3wk)
+- [ElasticSearch пример использования - LiveCodingSchool](https://www.youtube.com/watch?v=Dg5pztsa80c)
+- [Elasticsearch basic concepts - Code University Online](https://www.youtube.com/watch?v=8r_IMTerZSY)
 
 # Patterns/Architecture
 - [Design Patterns - An introduction - in28Minutes](https://www.youtube.com/watch?v=0jjNjXcYmAU)
@@ -84,6 +90,7 @@
   - [Spring Boot RESTful API Documentation With Swagger - KK JavaTutorials](https://www.youtube.com/playlist?list=PLzS3AYzXBoj-_gM7nBlqkRZaf1YuMEZLL)
   - [REST API Documentation using Swagger2 in Spring Boot - Tech Primers - YouTube](https://www.youtube.com/watch?v=HHyjWc0ASl8)
   - [Spring Boot REST API Documentation with Swagger and SpringFox](https://hellokoding.com/spring-boot-restful-api-documentation-with-swagger-and-springfox/)
+  - [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4)
 
 ### SOAP
   - [SOAP Web Service Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
@@ -94,6 +101,8 @@
 - [Intro to gRPC: A Modern Toolkit for Microservice Communication](https://www.youtube.com/watch?v=RoXT_Rkg8LA)
 - [GOTO 2016 • What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney](https://www.youtube.com/watch?v=kb-m2fasdDY)
 - [What is service discovery really all about?](https://www.youtube.com/watch?v=GboiMJm6WlA)
+- [GOTO 2014 • Microservices • Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+- [Refactor your Java EE application using Microservices and Containers - Arun Gupta](https://www.youtube.com/watch?v=Jogdz6gvodU)
 
 # Spring
 - [Clean Architecture with Spring by Tom Hombergs @ Spring I/O 2019](https://www.youtube.com/watch?v=cPH5AiqLQTo)
