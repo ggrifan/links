@@ -16,3 +16,9 @@
 - [Spring-потрошитель 2 - JUG 2014](https://www.youtube.com/watch?v=cou_qomYLNU)
 - [Зачем у Spring столько конфигураций? - Joker 2014](https://www.youtube.com/watch?v=ek9s7UHzFXc)
 - [Power of Gradle - JUG 2013](https://www.youtube.com/watch?v=NZJTYPLb0iE)
+
+### Алексей Шипилев
+- [Shenandoah: сборщик мусора, который смог 1 - Joker 2017](https://www.youtube.com/watch?v=JBaZ4lK6OBk)
+- [Shenandoah: сборщик мусора, который смог 2 - Joker 2017](https://www.youtube.com/watch?v=HBWaffsl7fo)
+- [Перформанс: Что В Имени Тебе Моём? - JBreak 2017](https://www.youtube.com/watch?v=CgRJUqO-dMQ)
+- [The Lord of the Strings: Two Scours - JPoint 2016](https://www.youtube.com/watch?v=v2XLg4SvCF8)
