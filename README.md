@@ -64,15 +64,19 @@
 
 # Docker
 - [Docker Tutorials for Beginners - in28Minutes](https://www.youtube.com/playlist?list=PLBBog2r6uMCQRT8JCwo5A23yjRZYGglL3)
+- [Docker Tutorial Videos | DevOps Tool - Edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5)
 - [Use Docker to Create a Node Development Environment](https://auth0.com/blog/use-docker-to-create-a-node-development-environment/)
 - [Get started with Docker for Windows](https://docs.docker.com/docker-for-windows/)
 - [Quickstart](https://docs.docker.com/get-started/)
 - [Docker - Automation Step by Step - Raghav Pal](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
+- [Docker - JavaInUse](https://www.youtube.com/playlist?list=PLZnMNSr-VrIhH2Z3LkFUCr5XoCak_tDo1)
+- [Learn Docker in 12 Minutes - Jake Wright](https://www.youtube.com/watch?v=YFl2mCHdv24)
 
 
 # Database
 - [Hibernate - JavaBrains](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
 - [Spring Boot JDBC](https://www.youtube.com/playlist?list=PLzS3AYzXBoj926GNGXBf6GSKq4VJR-aK4)
+- [PostgreSQL + Liquibase + Docker + Maven + Java](https://www.youtube.com/watch?v=nVmRY4Ri4CA)
 
 ### SQL
   - [SQL Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
@@ -125,6 +129,11 @@
 - [What is service discovery really all about?](https://www.youtube.com/watch?v=GboiMJm6WlA)
 - [GOTO 2014 • Microservices • Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 - [Refactor your Java EE application using Microservices and Containers - Arun Gupta](https://www.youtube.com/watch?v=Jogdz6gvodU)
+
+
+# Message Queues
+- [Spring Boot with Standalone ActiveMQ Example - Tech Primers](https://www.youtube.com/watch?v=zaCXYkzLgJc)
+- [Spring Boot with InMemory ActiveMQ Example - Tech Primers](https://www.youtube.com/watch?v=w78qhfpnLA0)
 
 
 # Spring
@@ -216,6 +225,26 @@
   - [How to create an application in Kotlin and secure it using JSON Web Tokens (JWTs)](https://auth0.com/blog/how-to-create-a-kotlin-app-and-secure-it-using-jwt/)
   - [What is JWT authorization really about - Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI)
   - [What is the structure of a JWT - Java Brains](https://www.youtube.com/watch?v=_XbXkVdoG_0)
+
+
+# JUG
+### Евгений Борисов и Ко
+- [Приключения Сеньора Холмса и Джуниора Ватсона - JPoint 2018](https://www.youtube.com/watch?v=KABC7Fty3x8)
+- [Boot yourself, Spring is coming 1 - JPoint 2018](https://www.youtube.com/watch?v=UYre4_bytD4)
+- [Boot yourself, Spring is coming 2 - JPoint 2018](https://www.youtube.com/watch?v=wQcZK0Tln30)
+- [Проклятие Spring Test - JPoint 2017](https://www.youtube.com/watch?v=7mZqJShu_3c)
+- [Spring – Глубоко и не очень - JPoint 2017](https://www.youtube.com/watch?v=nGfeSo52_8A)
+- [Java 8 Puzzlers - JPoint 2016](https://www.youtube.com/watch?v=6bN1HcRhse4)
+- [Мавен против Грейдла: На заре автоматизации - Joker 2016](https://www.youtube.com/watch?v=LScps3Dl7Vw)
+- [Maven vs Gradle vs SBT - JPoint 2016](https://www.youtube.com/watch?v=21qdRgFsTy0)
+- [Мифы о Spark, или Может ли пользоваться Spark обычный Java-разработчик - JPoint 2016](https://www.youtube.com/watch?v=XLSQJQjmFFw)
+- [Spring Puzzlers 2 - JUG 2016](https://www.youtube.com/watch?v=BFEgLtFLdRI)
+- [Spring Puzzlers 1 - Joker 2015](https://www.youtube.com/watch?v=U8MtGYa04v8)
+- [Spring Data? Да, та! - Joker 2014](https://www.youtube.com/watch?v=nwM7A4TwU3M)
+- [Spring-потрошитель 1 - JUG 2014](https://www.youtube.com/watch?v=BmBr5diz8WA)
+- [Spring-потрошитель 2 - JUG 2014](https://www.youtube.com/watch?v=cou_qomYLNU)
+- [Зачем у Spring столько конфигураций? - Joker 2014](https://www.youtube.com/watch?v=ek9s7UHzFXc)
+- [Power of Gradle - JUG 2013](https://www.youtube.com/watch?v=NZJTYPLb0iE)
 
 
 # JavaScript
