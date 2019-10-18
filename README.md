@@ -3,9 +3,14 @@
 - [JavaInUse](https://www.youtube.com/channel/UCbz69gWlMmsIn-jiIm6mGfg/playlists)
 - [Automation Step by Step - Raghav Pal](https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg/playlists)
 
+
 # VCS
 - [GitLab Beginner Tutorial - Automation Step by Step - Raghav Pal](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8YSnCiyQ-jD8XfHC2W1NL_)
 - [Git and GitHub - Automation Step by Step - Raghav Pal](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG)
+- [Основы Git и GitHub - ADV-IT](https://www.youtube.com/playlist?list=PLg5SS_4L6LYstwxTEOU05E0URTHnbtA0l)
+- [Git & GitHub - Managing Your Code - Academind](https://www.youtube.com/playlist?list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN)
+- [Git & GitHub Crash Course For Beginners - Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
 
 # 
 
@@ -16,8 +21,10 @@
 - [What is MicroFramework? | Top 5 MicroFrameworks for JVM | Tech Primers](https://www.youtube.com/watch?v=0HWD8ulTtu4)
 - [Avoiding Java Boilerplate Code with Project Lombok](https://auth0.com/blog/avoiding-java-boilerplate-code-with-project-lombok/)
 
+
 # JavaEE
 - [JSPs and Servlets - JavaBrains](https://www.youtube.com/playlist?list=PLE0F6C1917A427E96)
+
 
 # Big Data
 - [Java in Spark | Spark-Submit Job with Spark UI Example | Tech Primers](https://www.youtube.com/watch?v=cu2E0sSlWsY)
@@ -29,10 +36,20 @@
 - [ElasticSearch пример использования - LiveCodingSchool](https://www.youtube.com/watch?v=Dg5pztsa80c)
 - [Elasticsearch basic concepts - Code University Online](https://www.youtube.com/watch?v=8r_IMTerZSY)
 
+
 # Patterns/Architecture
-- [Design Patterns - An introduction - in28Minutes](https://www.youtube.com/watch?v=0jjNjXcYmAU)
 - [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
 - [Making Architecture Matter - Martin Fowler Keynote](https://www.youtube.com/watch?v=DngAZyWMGR0)
+
+### Patterns
+  - [Design Patterns - An introduction - in28Minutes](https://www.youtube.com/watch?v=0jjNjXcYmAU)
+
+### Algorithms
+  - [Introduction to Algorithms -MIT 6.006 - Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+  - [Design and Analysis of Algorithms - MIT 6.046J - Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+  - [Алгоритмы и структуры данных на Python 3 - MIPT](http://judge.mipt.ru/mipt_cs_on_python3/)
+  - [Алгоритмы и структуры данных на Python 3 - 2017-2018 - Тимофей Хирьянов](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
+
 
 # Testing
 - [JUnit 5 Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa4ad5JISViSb2FVG8Vwa4o)
@@ -40,8 +57,10 @@
 - [JUnit 5: what's new and what's coming by Sam Brannen @ Spring I/O 2019](https://www.youtube.com/watch?v=AGcdT1W3eXA)
 - [Spring boot testing tutorial](https://www.youtube.com/playlist?list=PLzS3AYzXBoj9PGVglzLgvS0JE5J_ucpuW)
 
+
 # Maven/Gradle
 - [Maven Tutorial for Beginners: with Eclipse - in28Minutes](https://www.youtube.com/watch?v=0CFWeVgzsqY)
+
 
 # Docker
 - [Docker Tutorials for Beginners - in28Minutes](https://www.youtube.com/playlist?list=PLBBog2r6uMCQRT8JCwo5A23yjRZYGglL3)
@@ -49,6 +68,7 @@
 - [Get started with Docker for Windows](https://docs.docker.com/docker-for-windows/)
 - [Quickstart](https://docs.docker.com/get-started/)
 - [Docker - Automation Step by Step - Raghav Pal](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
+
 
 # Database
 - [Hibernate - JavaBrains](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
@@ -73,6 +93,7 @@
   - [Flyway Tutorial](https://www.youtube.com/playlist?list=PL8LikImwls6J2EVW0AGWex-9jnoQizuOw)
   - [Spring Boot Flyway Example of Database Migration with JPA and Hibernate](https://hellokoding.com/database-migration-evolution-with-flyway-and-jpa-hibernate/)
 
+
 # WebServices/API
 - **[Building GraphQL APIs with Kotlin, Spring Boot, and MongoDB](https://auth0.com/blog/building-graphql-apis-with-kotlin-spring-boot-and-mongodb/) !!!**
 - [Moving beyond REST: GraphQL and Java & Spring by Pratik Patel @ Spring I/O 2019](https://www.youtube.com/watch?v=iHxu2bq3fxI)
@@ -96,6 +117,7 @@
   - [SOAP Web Service Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
   - [Spring Web Services (SOAP) in Spring Boot App with example](https://www.youtube.com/watch?v=mr_2-AWYCoc)
 
+
 # Microservices
 - [Spring Boot Microservices - JavaBrains](https://www.youtube.com/user/koushks/playlists?view=50&sort=dd&shelf_id=12)
 - [Intro to gRPC: A Modern Toolkit for Microservice Communication](https://www.youtube.com/watch?v=RoXT_Rkg8LA)
@@ -103,6 +125,7 @@
 - [What is service discovery really all about?](https://www.youtube.com/watch?v=GboiMJm6WlA)
 - [GOTO 2014 • Microservices • Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 - [Refactor your Java EE application using Microservices and Containers - Arun Gupta](https://www.youtube.com/watch?v=Jogdz6gvodU)
+
 
 # Spring
 - [Clean Architecture with Spring by Tom Hombergs @ Spring I/O 2019](https://www.youtube.com/watch?v=cPH5AiqLQTo)
@@ -145,6 +168,7 @@
 ### Spring MVC
   - [Spring MVC Tutorial for Beginners - in28Minutes](https://www.youtube.com/watch?v=BjNhGaZDr0Y)
   - [Spring MVC Tutorial - Telusko - YouTube](https://www.youtube.com/watch?v=g2b-NbR48Jo)
+
 
 # Security
 - [Implementing Microservices Security Patterns & Protocols with Spring Security by Joe Grandja](https://www.youtube.com/watch?v=v2J32nd0g24)
@@ -193,6 +217,7 @@
   - [What is JWT authorization really about - Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI)
   - [What is the structure of a JWT - Java Brains](https://www.youtube.com/watch?v=_XbXkVdoG_0)
 
+
 # JavaScript
 - [Филипп Робертс: Что за чертовщина такая event loop? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Zero Config JavaScript App Prototyping with Webpack](https://auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/)
@@ -231,9 +256,11 @@
 - [Authenticating Android Apps Developed in Kotlin](https://auth0.com/blog/authenticating-android-apps-developed-with-kotlin/)
 - [Android Development: 15 Libraries You Should Be Using](https://auth0.com/blog/android-development-15-libraries-you-should-be-using/)
 
+
 # FullStack
 - [Vue.js, Spring Boot, Kotlin, and GraphQL: Building Modern Apps - Part 1](https://auth0.com/blog/vuejs-spring-boot-kotlin-and-graphql-building-modern-apps-part-1/)
 - [Vue.js, Spring Boot, Kotlin, and GraphQL: Building Modern Apps - Part 2](https://auth0.com/blog/vuejs-spring-boot-kotlin-and-graphql-building-modern-apps-part-2/)
+
 
 # Other
 - [Convert Windows PC to Linux (Ubuntu)](https://auth0.com/blog/convert-windows-pc-to-linux-ubuntu-dev-environment/)
