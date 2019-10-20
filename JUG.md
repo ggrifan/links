@@ -19,9 +19,26 @@
 - [Зачем у Spring столько конфигураций? - Joker 2014](https://www.youtube.com/watch?v=ek9s7UHzFXc)
 - [Power of Gradle - JUG 2013](https://www.youtube.com/watch?v=NZJTYPLb0iE)
 
-### Алексей Шипилев
+### Алексей Шипилев, Сергей Куксенко
 - [Shenandoah: сборщик мусора, который смог 1 - Joker 2017](https://www.youtube.com/watch?v=JBaZ4lK6OBk)
 - [Shenandoah: сборщик мусора, который смог 2 - Joker 2017](https://www.youtube.com/watch?v=HBWaffsl7fo)
+- [Shenandoah: сборщик мусора, который смог - JBreak 2017](https://www.youtube.com/watch?v=ZYiQCHxgABI)
 - [Перформанс: Что В Имени Тебе Моём? - JBreak 2017](https://www.youtube.com/watch?v=CgRJUqO-dMQ)
+- [Близкие Контакты JMM-степени](https://www.youtube.com/watch?v=C6b_dFtujKo)
+- [Если не Unsafe, то кто: восход VarHandles - JPoint 2016](https://www.youtube.com/watch?v=ESs0bZw8hsA)
 - [The Lord of the Strings: Two Scours - JPoint 2016](https://www.youtube.com/watch?v=v2XLg4SvCF8)
 - [The Lord of the Strings: Two Scours - Joker 2015](https://www.youtube.com/watch?v=HWkVJkoo1_Q)
+- [Сжимай меня полностью - JPoint 2015](https://www.youtube.com/watch?v=hOF7sewi6pk)
+- [Катехизис java.lang.String - JPoint 2015](https://www.youtube.com/watch?v=SZFe3m1DV1A)
+- [Performance Optimization 101 - Joker 2015](https://www.youtube.com/watch?v=EupF3VNXPPQ)
+- [Прагматика Java Memory Model - JUG 2014](https://www.youtube.com/watch?v=iB2N8aqwtxc)
+- [Stream API 1 - JUG - 2014](https://www.youtube.com/watch?v=O8oN4KSZEXE)
+- [Stream API 2 - JUG - 2014](https://www.youtube.com/watch?v=i0Jr2l3jrDA)
+- [Bulletproof Java Concurrency - JPoint 2013](https://www.youtube.com/watch?v=uZfK-9ixxec)
+- [OpenJDK Frameworks: jmh & jcstress - JUG - 2013](https://www.youtube.com/watch?v=4p4vL6EhzOk)
+- [ForkJoinPool в Java 8 - JUG 2013](https://www.youtube.com/watch?v=t0dGLFtRR9c)
+- [Оптимизация производительности Java-приложений 1](https://www.youtube.com/watch?v=ulWWSKr0Ce0)
+- [Оптимизация производительности Java-приложений 2](https://www.youtube.com/watch?v=sAtWK22Ho2Q)
+- [Через тернии к лямбдам 1 - JUG 2012](https://www.youtube.com/watch?v=kxgo7Y4cdA8)
+- [Через тернии к лямбдам 2 - JUG 2012](https://www.youtube.com/watch?v=JRBWBJ6S4aU)
+
