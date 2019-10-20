@@ -148,6 +148,10 @@
 - [Spring Boot with InMemory ActiveMQ Example - Tech Primers](https://www.youtube.com/watch?v=w78qhfpnLA0)
 - [101 способ приготовления RabbitMQ и о pipeline-архитектуре - Павел Филонов - HighLoad 2017](https://www.youtube.com/watch?v=jMZviSKf3QU)
 - [I can't believe it's not a queue: Using Kafka with Spring - SpringDeveloper](https://www.youtube.com/watch?v=l8V6PkVV1Ec)
+- [RabbitMQ vs Kafka](https://www.youtube.com/watch?v=0giiIq7gvWY)
+- [Kafka и RabbitMQ: Битва титанов. Часть первая — Вячеслав Белецкий](https://www.youtube.com/watch?v=_4CSNrIZQxU)
+- [Backend 2. RabbitMQ. Pika](https://www.youtube.com/watch?v=4cWg5FVZV6Y)
+- [RabbitMQ](https://www.youtube.com/watch?v=GoIkHMCXFCU)
 
 
 # Spring
