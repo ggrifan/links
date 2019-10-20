@@ -146,6 +146,7 @@
 - [Spring Data Support - JavaBrains](https://www.youtube.com/playlist?list=PL1A506B159E5BD13E)
 - [Spring 5, Embedded Tomcat 8, and Gradle: a Quick Tutorial](https://auth0.com/blog/spring-5-embedded-tomcat-8-gradle-tutorial/)
 - [Spring Framework Tutorial](https://www.youtube.com/playlist?list=PLzS3AYzXBoj8U0zgO7Kuu_2KtclkB1gSV)
+- [Spring Framework 5 feature highlights and hidden gems - Juergen Hoeller](https://www.youtube.com/watch?v=24QGJn00uRY)
 
 ### Spring Boot
   - [Spring Boot Tutorial(All In One)](https://www.youtube.com/playlist?list=PLzS3AYzXBoj8UcLsBN3UXd7Nf1T4ZyJa0)
