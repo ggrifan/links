@@ -20,6 +20,10 @@
 - [Java 9 | Modular Programming | Hands-on with Modules | Tech Primers](https://www.youtube.com/watch?v=4EXcded_P70)
 - [What is MicroFramework? | Top 5 MicroFrameworks for JVM | Tech Primers](https://www.youtube.com/watch?v=0HWD8ulTtu4)
 - [Avoiding Java Boilerplate Code with Project Lombok](https://auth0.com/blog/avoiding-java-boilerplate-code-with-project-lombok/)
+- [Reactive Programming: creating highly responsive applications - Venkat Subramaniam - Joker 2015](https://www.youtube.com/watch?v=eDpChpuZfGA)
+- [CompletableFuture in Java 8, asynchronous processing done right - Tomasz Nurkiewicz - Joker 2015](https://www.youtube.com/watch?v=-MBPQ7NIL_Y)
+- [JDK 8: Lessons Learnt With Lambdas and Streams](https://www.youtube.com/watch?v=wZKmA6XodNE)
+- [Project Jigsaw in JDK 9: Modularity Comes To Java - Simon Ritter - SpringOne - 2016](https://www.youtube.com/watch?v=Ks7J_qQVR7Y)
 
 
 # JavaEE
@@ -102,6 +106,9 @@
 - **[Building GraphQL APIs with Kotlin, Spring Boot, and MongoDB](https://auth0.com/blog/building-graphql-apis-with-kotlin-spring-boot-and-mongodb/) !!!**
 - [Moving beyond REST: GraphQL and Java & Spring by Pratik Patel @ Spring I/O 2019](https://www.youtube.com/watch?v=iHxu2bq3fxI)
 - [SoapUI - Automation Step by Step - Raghav Pal](https://www.youtube.com/playlist?list=PLhW3qG5bs-L-Bt9T_bnyflQ0Te4VgFhKF)
+- [From Zero to Hero with Spring WebSocket - SpringDeveloper - 2015](https://www.youtube.com/watch?v=nxakp15CACY)
+- [Deep dive into Spring WebSockets - SpringDeveloper - 2014](https://www.youtube.com/watch?v=oCAC2yow8xk)
+- [What’s New in Spring Data? - SpringOne - 2019](https://www.youtube.com/watch?v=jwdhZcCOock)
 
 ### REST
   - [REST API Tutorial](https://www.restapitutorial.com/)
@@ -116,6 +123,9 @@
   - [REST API Documentation using Swagger2 in Spring Boot - Tech Primers - YouTube](https://www.youtube.com/watch?v=HHyjWc0ASl8)
   - [Spring Boot REST API Documentation with Swagger and SpringFox](https://hellokoding.com/spring-boot-restful-api-documentation-with-swagger-and-springfox/)
   - [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4)
+  - [DDD & REST - Domain Driven APIs for the web - Oliver Gierke - SpringOne - 2016](https://www.youtube.com/watch?v=NdZqeAAIHzc)
+  - [OpenAPI 3.0: How to Design and Document APIs with the Latest OpenAPI Specification 3.0](https://www.youtube.com/watch?v=6kwmW_p_Tig)
+  - [Swagger: How to Create an API Documentation](https://www.youtube.com/watch?v=xggucT_xl5U)
 
 ### SOAP
   - [SOAP Web Service Basics - JavaBrains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
@@ -129,11 +139,15 @@
 - [What is service discovery really all about?](https://www.youtube.com/watch?v=GboiMJm6WlA)
 - [GOTO 2014 • Microservices • Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 - [Refactor your Java EE application using Microservices and Containers - Arun Gupta](https://www.youtube.com/watch?v=Jogdz6gvodU)
+- [Микросервисная архитектура, подходы и технологии - Кирилл Ветчинкин - Backend Conf 2018](https://www.youtube.com/watch?v=FF-GZ7iipwc)
+- [Developing microservices with aggregates - Chris Richardson - SpringDeveloper](https://www.youtube.com/watch?v=7kX3fs0pWwc)
 
 
 # Message Queues
 - [Spring Boot with Standalone ActiveMQ Example - Tech Primers](https://www.youtube.com/watch?v=zaCXYkzLgJc)
 - [Spring Boot with InMemory ActiveMQ Example - Tech Primers](https://www.youtube.com/watch?v=w78qhfpnLA0)
+- [101 способ приготовления RabbitMQ и о pipeline-архитектуре - Павел Филонов - HighLoad 2017](https://www.youtube.com/watch?v=jMZviSKf3QU)
+- [I can't believe it's not a queue: Using Kafka with Spring - SpringDeveloper](https://www.youtube.com/watch?v=l8V6PkVV1Ec)
 
 
 # Spring
@@ -147,6 +161,7 @@
 - [Spring 5, Embedded Tomcat 8, and Gradle: a Quick Tutorial](https://auth0.com/blog/spring-5-embedded-tomcat-8-gradle-tutorial/)
 - [Spring Framework Tutorial](https://www.youtube.com/playlist?list=PLzS3AYzXBoj8U0zgO7Kuu_2KtclkB1gSV)
 - [Spring Framework 5 feature highlights and hidden gems - Juergen Hoeller](https://www.youtube.com/watch?v=24QGJn00uRY)
+- [Spring Framework Tutorial - Edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEfi91PCFQMawtBJrPpir7y)
 
 ### Spring Boot
   - [Spring Boot Tutorial(All In One)](https://www.youtube.com/playlist?list=PLzS3AYzXBoj8UcLsBN3UXd7Nf1T4ZyJa0)
@@ -167,6 +182,7 @@
   - [Exception Handling and I18N on Spring Boots APIs](https://auth0.com/blog/exception-handling-and-i18n-on-spring-boots-apis/)
   - [Automatically Mapping DTO to Entity on Spring Boot APIs](https://auth0.com/blog/automatically-mapping-dto-to-entity-on-spring-boot-apis/)
   - [Implementing JWT Authentication on Spring Boot APIs](https://auth0.com/blog/implementing-jwt-authentication-on-spring-boot/)
+  - [From Zero to Hero with Spring Boot - Brian Clozel - SpringOne - 2017](https://www.youtube.com/watch?v=aA4tfBGY6jY)
 
 ### Spring Reactive
   - [Moving from Imperative to Reactive by Paul Harris @ Spring I/O 2019](https://www.youtube.com/watch?v=vSHNBgY7MGA)
@@ -226,26 +242,6 @@
   - [How to create an application in Kotlin and secure it using JSON Web Tokens (JWTs)](https://auth0.com/blog/how-to-create-a-kotlin-app-and-secure-it-using-jwt/)
   - [What is JWT authorization really about - Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI)
   - [What is the structure of a JWT - Java Brains](https://www.youtube.com/watch?v=_XbXkVdoG_0)
-
-
-# JUG
-### Евгений Борисов и Ко
-- [Приключения Сеньора Холмса и Джуниора Ватсона - JPoint 2018](https://www.youtube.com/watch?v=KABC7Fty3x8)
-- [Boot yourself, Spring is coming 1 - JPoint 2018](https://www.youtube.com/watch?v=UYre4_bytD4)
-- [Boot yourself, Spring is coming 2 - JPoint 2018](https://www.youtube.com/watch?v=wQcZK0Tln30)
-- [Проклятие Spring Test - JPoint 2017](https://www.youtube.com/watch?v=7mZqJShu_3c)
-- [Spring – Глубоко и не очень - JPoint 2017](https://www.youtube.com/watch?v=nGfeSo52_8A)
-- [Java 8 Puzzlers - JPoint 2016](https://www.youtube.com/watch?v=6bN1HcRhse4)
-- [Мавен против Грейдла: На заре автоматизации - Joker 2016](https://www.youtube.com/watch?v=LScps3Dl7Vw)
-- [Maven vs Gradle vs SBT - JPoint 2016](https://www.youtube.com/watch?v=21qdRgFsTy0)
-- [Мифы о Spark, или Может ли пользоваться Spark обычный Java-разработчик - JPoint 2016](https://www.youtube.com/watch?v=XLSQJQjmFFw)
-- [Spring Puzzlers 2 - JUG 2016](https://www.youtube.com/watch?v=BFEgLtFLdRI)
-- [Spring Puzzlers 1 - Joker 2015](https://www.youtube.com/watch?v=U8MtGYa04v8)
-- [Spring Data? Да, та! - Joker 2014](https://www.youtube.com/watch?v=nwM7A4TwU3M)
-- [Spring-потрошитель 1 - JUG 2014](https://www.youtube.com/watch?v=BmBr5diz8WA)
-- [Spring-потрошитель 2 - JUG 2014](https://www.youtube.com/watch?v=cou_qomYLNU)
-- [Зачем у Spring столько конфигураций? - Joker 2014](https://www.youtube.com/watch?v=ek9s7UHzFXc)
-- [Power of Gradle - JUG 2013](https://www.youtube.com/watch?v=NZJTYPLb0iE)
 
 
 # JavaScript
