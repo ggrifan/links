@@ -75,6 +75,11 @@
 - [Docker - Automation Step by Step - Raghav Pal](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
 - [Docker - JavaInUse](https://www.youtube.com/playlist?list=PLZnMNSr-VrIhH2Z3LkFUCr5XoCak_tDo1)
 - [Learn Docker in 12 Minutes - Jake Wright](https://www.youtube.com/watch?v=YFl2mCHdv24)
+- [Docker for Java Developers](https://github.com/docker/labs/tree/master/developer-tools/java/)
+- [Manage sensitive data with Docker secrets](https://docs.docker.com/engine/swarm/secrets/)
+- [Store configuration data using Docker Configs](https://docs.docker.com/engine/swarm/configs/)
+- [Use volumes](https://docs.docker.com/storage/volumes/)
+- [Use bind mounts](https://docs.docker.com/storage/bind-mounts/)
 
 
 # Database
