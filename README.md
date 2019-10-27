@@ -146,6 +146,7 @@
 - [Refactor your Java EE application using Microservices and Containers - Arun Gupta](https://www.youtube.com/watch?v=Jogdz6gvodU)
 - [Микросервисная архитектура, подходы и технологии - Кирилл Ветчинкин - Backend Conf 2018](https://www.youtube.com/watch?v=FF-GZ7iipwc)
 - [Developing microservices with aggregates - Chris Richardson - SpringDeveloper](https://www.youtube.com/watch?v=7kX3fs0pWwc)
+- [Building Streaming Microservices with Apache Kafka - Tim Berglund - DEVOXX - 2018](https://www.youtube.com/watch?v=Hlb-Ss3q3as)
 
 
 # Message Queues
@@ -157,6 +158,13 @@
 - [Kafka и RabbitMQ: Битва титанов. Часть первая — Вячеслав Белецкий](https://www.youtube.com/watch?v=_4CSNrIZQxU)
 - [Backend 2. RabbitMQ. Pika](https://www.youtube.com/watch?v=4cWg5FVZV6Y)
 - [RabbitMQ](https://www.youtube.com/watch?v=GoIkHMCXFCU)
+- [Spring JMS Integration Example](https://codenotfound.com/spring-jms-integration-example.html)
+- [Spring Integration - Overview - docs.spring.io](https://docs.spring.io/spring-integration/docs/5.1.5.RELEASE/reference/html/#overview)
+- [Spring Integration - Core Messaging - docs.spring.io](https://docs.spring.io/spring-integration/docs/5.1.5.RELEASE/reference/html/#spring-integration-core-messaging)
+- [Spring Integration - JMS Support - docs.spring.io](https://docs.spring.io/spring-integration/reference/html/jms.html)
+- [Spring Integration - Java DSL](https://www.baeldung.com/spring-integration-java-dsl)
+- [Spring Integration - Java DSL - docs.spring.io](https://docs.spring.io/spring-integration/docs/5.1.0.RELEASE/reference/html/java-dsl.html)
+
 
 
 # Spring
