@@ -244,6 +244,7 @@
   - [Securing Spring Boot APIs and SPAs with OAuth 2.0](https://auth0.com/blog/securing-spring-boot-apis-and-spas-with-oauth2/)
   - [OAuth 2.0 and OpenID Connect (in plain English) - OktaDev](https://www.youtube.com/watch?v=996OiexHze0)
   - [Oktane17: What the Heck is OpenIDConnect?](https://www.youtube.com/watch?v=6ypYXxRPKgk)
+  - [OAuth: When Things Go Wrong](https://www.youtube.com/watch?v=H6MxsFMAoP8)
 
 ### JWT
   - [Navigating RS256 and JWKS](https://auth0.com/blog/navigating-rs256-and-jwks/)
@@ -259,12 +260,14 @@
   - [How to create an application in Kotlin and secure it using JSON Web Tokens (JWTs)](https://auth0.com/blog/how-to-create-a-kotlin-app-and-secure-it-using-jwt/)
   - [What is JWT authorization really about - Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI)
   - [What is the structure of a JWT - Java Brains](https://www.youtube.com/watch?v=_XbXkVdoG_0)
+  - [Spring Boot + Spring Security + JWT from scratch - Java Brains](https://www.youtube.com/watch?v=X80nJ5T7YpE)
 
 
 # JavaScript
 - [Филипп Робертс: Что за чертовщина такая event loop? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [Zero Config JavaScript App Prototyping with Webpack](https://auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/)
 - [Creating Web Components with Stencil](https://auth0.com/blog/creating-web-components-with-stencil/)
+- [Изучение функционального программирования в Javascript- JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
 
 ### Angular
   - [Understanding Angular 2 change detection](https://auth0.com/blog/understanding-angular-2-change-detection/)
