@@ -312,4 +312,15 @@
 - [Convert Windows PC to Linux (Ubuntu)](https://auth0.com/blog/convert-windows-pc-to-linux-ubuntu-dev-environment/)
 
 
+- [Introduction to Public-Key Cryptography](https://www.youtube.com/watch?v=TCwciYgO6zI)
+- [Design Principles of Vue 3.0 by Evan You](https://www.youtube.com/watch?v=WLpLYhnGqPA)
+- [7 The problem with threads - Spring Boot Microservices Level 2](https://www.youtube.com/watch?v=76MEPTM2ARI)
+- [Public Key Encryption (Asymmetric Key Encryption)](https://www.youtube.com/watch?v=8I7BNgD2Yag)
+
+
+
+
+
+
+
 
